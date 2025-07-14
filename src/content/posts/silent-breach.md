@@ -9,7 +9,8 @@ draft: false
 lang: 'en'
 ---
 
-
+> **Link**: <code>[silent-breach](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/)</code>
+ 
 # Overview
 **Scenario**: The IMF is hit by a cyber attack compromising sensitive data. Luther sends Ethan to retrieve crucial information from a compromised server. Despite warnings, Ethan downloads the intel, which later becomes unreadable. To recover it, he creates a forensic image and asks Benji for help in decoding the files.<br/>
 <br/>

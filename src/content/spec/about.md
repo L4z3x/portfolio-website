@@ -1,9 +1,14 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# @L4Z3X
+I am a Computer science student in Algeria, with a passion for cybersecurity and forensics!<br/>
+I play CTFs with [Cascroot](https://ctftime.org/team/373919).<br/>
+I do software development and web development as a hobby.
+ 
+### What I do:
+- I build with rust.
+- I do Back-end development with django and python.
+- I do Front-end development with nextjs.
 
-::github{repo="saicaca/fuwari"}
+> ### You can reach me through:
+> - Email:  <code>m_mousselmal@estin.dz</code>
+> - Discord: <code>[L4z3x](https://discordapp.com/users/1008642046657048597)</code>
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)

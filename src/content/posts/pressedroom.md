@@ -258,8 +258,8 @@ we can see two base64 encoded strings:
  - `RWx1RDNfWTB1X1doM25fWW91Xw==` -> `EluD3_Y0u_Wh3n_You_` 
  - `QXJlX1ByZSRzM2RfNF9UaW0zfQ==` -> `Are_Pre$s3d_4_Tim3}`
 
-Part 1: VEhNe0FfQzJfTUF5Xw== -> THM{A_C2_MAy_
-Part 2: RWx1RDNfWTB1X1doM25fWW91Xw== -> EluD3_Y0u_Wh3n_You_
-Part 3: QXJlX1ByZSRzM2RfNF9UaW0zfQ== -> Are_Pre$s3d_4_Tim3}
+Part 1: VEhNe0FfQzJfTUF5Xw== -> THM{A_C2_MAy_<br/>
+Part 2: RWx1RDNfWTB1X1doM25fWW91Xw== -> EluD3_Y0u_Wh3n_You_<br/>
+Part 3: QXJlX1ByZSRzM2RfNF9UaW0zfQ== -> Are_Pre$s3d_4_Tim3}<br/>
 
 final flag: `THM{A_C2_MAy_EluD3_Y0u_Wh3n_You_Are_Pre$s3d_4_Tim3}`

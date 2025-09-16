@@ -50,7 +50,7 @@ Next, i found that it's the one making the get request to download client.exe fr
 <img src="/thm-pressedroom/evil.png" alt="evil.xml"/>
 now let's extract `client.exe` file and analyse it
 
-## Analysing the Ma lware
+## Analysing the Malware
 
 after i opened client.exe in Ghidra, and started looking into the main function:
 ```c

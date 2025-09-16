@@ -1,7 +1,7 @@
 ---
 title: "Pressedroom: TryHachMe Lab"
 published: 2025-09-15
-description: 'a detailed write-up of the Hach Me lab from Pressedroom'
+description: 'a detailed write-up of Pressedroom lab from TryHachMe'
 image: '/thm-pressedroom/logo.png'
 tags: ["TryHackme","DFIR","Medium"]
 category: 'CTF'
@@ -14,7 +14,7 @@ lang: 'en'
 **Difficulty**: Medium<br/>
 **Category**: DFIR (Digital Forensics and Incident Response)<br/>
 **Points**: 50<br/>
-
+**Link**: [Pressedroom](https://tryhackme.com/room/pressedroom)
 the challenge provided a pcap file, let's open it with wireshark ans start analyzing it.
 
 ## Analyzing the PCAP File

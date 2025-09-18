@@ -1,5 +1,5 @@
 ---
-title: Alfresco-AD integration
+title: "Integrating Alfresco Content Service with AD"
 published: 2025-09-18
 description: 'Integrating Alfresco with Active Directory user authentication and management.'
 image: '/alfresco-ad/images.png'
@@ -9,15 +9,15 @@ draft: false
 lang: 'en'
 ---
 
-## Integrating Alfresco with Active Directory
+## Integrating Alfresco Content Service with Active Directory
  
- In this article, we will explore how to integrate Alfresco with AD for user authentication and management. This integration allows users to log in to Alfresco using their existing AD credentials, streamlining access and improving security.
+ In this article, we will explore how to integrate Acs with AD for user authentication and management. This integration allows users to log in to Alfresco using their existing AD credentials, streamlining access and improving security.
 
 
 
 ## My setup
 
- - Alfresco acs 25.2 (community edition), installed with Docker from [github](https://github.com/Alfresco/acs-deployment)
+ - Acs 25.2 (community edition), installed with Docker from [github](https://github.com/Alfresco/acs-deployment)
  - Access to a working Active Directory server.
  - make sure both are on the same network and can communicate with each other.
 
@@ -92,10 +92,10 @@ make sure to replace these placeholders with your actual values:
 - `<AD_VM_PORT>`: The IP address or hostname of your AD server.
 - `<DOMAIN>`: Your AD domain name.
 - `<TLD>`: Your AD top-level domain (e.g., com, local).
-- `<ALFRESCO_USERNAME>`: The username of the AD user created for Alfresco
-- `<ALFRESCO_PASSWORD>`: The password of the AD user created for Alfresco
+- `<ALFRESCO_USERNAME>`: The username of the AD user created for Alfresco.
+- `<ALFRESCO_PASSWORD>`: The password of the AD user created for Alfresco.
 
-and <strong>read</strong> the comments in the file for more information about other settings.
+and <strong>read</strong> the <strong>comments</strong> in the file for more information about other settings.
 
 ## Step 3: Restart Alfresco
 After making these changes, restart the Alfresco container and watch the logs for any errors or issues related to LDAP/AD integration.

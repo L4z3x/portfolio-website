@@ -37,17 +37,6 @@ lang: 'en'
 
 - **Image support**: via ratatui-image for inline graphics on supported terminals
 
-## Skills Learned:
-
-- Building complex async Rust apps with Tokio and handling event loops
-
-- Crafting dynamic terminal UIs using Ratatui: popups, list views, threading
-
-- Cross-platform packaging: managing builds for Linux (AUR), Debian, Windows, and musl
-
-- Terminal graphics: integrating image rendering in TUI-friendly terminals
-
-- Keyboard navigation ergonomics: designing intuitive keybindings and popup flows
 
 ## Challenges and Lessons:
 
@@ -57,7 +46,7 @@ lang: 'en'
 
 ## Outcome:
 
-- Gained nearly 100 stars ⭐ on [GitHub](https://github.com/L4z3x/mal-cli).
+- Gained 111 stars ⭐ on [GitHub](https://github.com/L4z3x/mal-cli).
 
 - Featured on Rust forums and r/linux for delivering a sleek, native-like TUI experience
     

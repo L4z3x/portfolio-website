@@ -12,13 +12,13 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Portfolio",
 	lang: "en", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
-		hue: 95, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		hue: 240, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
 		enable: true, 
 		src: "/banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-		position: "top", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
+		position: "bottom", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
 			text: "", // Credit text to be displayed
@@ -62,11 +62,6 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/L4z3x/",
-		},
-		{
-			name: "LinkedIn",
-			icon: "fa6-brands:linkedin",
-			url: "https:/https://www.linkedin.com/in/moussa-mousselmal-49642a281/",
 		},
 		{
 			name: "CyberDefenders",

@@ -35,17 +35,12 @@ lang: 'en'
 ## Skills Learned
 
 - Designing desktop GUI applications with PyQt  
-- Integrating image processing pipelines for automated wallpapers  
-- Handling OS-level interactions (wallpaper setting, file I/O)  
-- Managing scheduling logic and auto-refresh mechanisms
 
 ---
 
 ## Challenges & Lessons
 
 - Adapting **wallpaper-setting logic across different OSes** (Windows, Linux)  
-- Ensuring **text legibility and non-intrusiveness** through dynamic overlay placement  
-
 ---
 
 ## Outcome

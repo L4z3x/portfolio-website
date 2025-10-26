@@ -11,15 +11,12 @@ lang: 'en'
 
 
 **HCA Web** is the official digital platform for the **Happy Childhood Association**, a nonprofit based in El Atteuf, Ghardaïa, Algeria. The platform supports the association’s mission to care for children in need by providing a digital space for sharing projects,events and managing member interactions. I led the **backend development using Django**, building a secure, scalable REST API to power all site functionality.<br/>
-**Link**: [hca-web.vercel.app](https://hca-web.vercel.app)
+**Link**: [hca-web](https://hca-web.vercel.app)
 
 
 ## Key Features
 
-- **Custom User System** for administrators, volunteers, and donors 
-- **Event Listings API** for showcasing ongoing initiatives  
 - **Secure Authentication** and role-based access with DRF and JWT  
-- **Auto-generated API docs** using DRF Spectacular or Swagger  
 - **Robust Admin Dashboard** for site management 
 
 
@@ -36,7 +33,6 @@ lang: 'en'
 
 ## My Role & Contributions
 
-- Designed the **entire backend architecture** from scratch  
 - Built **secure, versioned APIs** for users, donations, and project management  
 - Integrated **authentication and permissions**, including admin-only and writer-only routes  
 - Created **API schema documentation** for seamless front-end integration  
@@ -47,13 +43,10 @@ lang: 'en'
 
 - Implementing **multi-role access** (admin, donor, volunteer)  
 - Coordinating live frontend-backend integration using real endpoints  
-- Addressing **Algerian localization** needs (dates, currencies, Arabic support if any)
-- chosing the right platform for hosting for future scaling  
 - Structuring models to support **future features**
 
 
 ## Outcome
 
-- Full-stack app live at [hca-web.vercel.app](https://hca-web.vercel.app)  
+- Full-stack app live at [hca-web](https://hca-web.vercel.app)  
 - Backend designed to support future features like newsletter APIs, chat, or mobile integration  
-- Demonstrates real-world experience in building APIs for social impact organization

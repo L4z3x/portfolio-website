@@ -12,6 +12,7 @@ lang: 'en'
 ## Description
 zohir wanted to learn hacking, like REAL hacking, so he installed kali and joined a russian hacking telegram group, and started chatting with one of the group members, after 2 days he came to me saying that suspicious files are appearing on his machine 
 can you help him find out what is going on?  
+files provided :[here](https://github.com/n3xusss/nexus_nextrace_2025/tree/main/Forensics/Innocent/challenge)
 > **Author** : L4Z3X
 
 

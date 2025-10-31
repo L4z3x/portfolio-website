@@ -28,8 +28,9 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://moussa-mousselmal.vercel.app/",
-  base: "/",
+  site: "https://l4z3x.github.io",
+  base: "/blog",
+  
   trailingSlash: "always",
 
   integrations: [
